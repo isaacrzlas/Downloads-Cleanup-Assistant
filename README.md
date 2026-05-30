@@ -68,10 +68,6 @@ You can also use the included launcher:
 7. Click `Clean Selected` or `Clean Duplicate Copies` to move files safely to the Recycle Bin or Trash.
 8. Use `Export Report` to save a scan summary and CSV inventory.
 
-## Screenshots
-
-Screenshots can be added here after packaging or portfolio capture.
-
 ## Project Architecture
 
 - `main.py` starts the PyQt6 application.
